@@ -14,4 +14,5 @@ This application allows you to switch monitor inputs via the System Tray.
 
 ## Troubleshooting
 - If no monitors appear: Ensure your monitor supports DDC/CI and is connected via HDMI/DP/USB-C (not just USB data).
-- If "Python not found": Reinstall Python and check "Add to PATH".
+
+크로스오버 27uld950에서 테스트 하였음
